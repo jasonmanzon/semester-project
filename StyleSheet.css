@@ -1,2 +1,3 @@
 background-image: url("https://raw.githubusercontent.com/jasonmanzon/semester-project/master/Background.JPG"); 
-background-size: cover;
+background-repeat: no-repeat;
+  background-size: auto;
